@@ -36,3 +36,14 @@ h1 {
     color: white;
     font-weight: 700;
 }
+
+.dream-big {
+    display: flex;
+    background-image: url(imgs/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.dream-img {
+    width: 70%;
+}
