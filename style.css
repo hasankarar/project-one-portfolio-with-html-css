@@ -7,6 +7,11 @@ body {
 
 h1 {
     font-size: 50px;
+    font-weight: bolder;
+}
+
+h3 {
+    font-weight: 900;
 }
 
 .ornge-color {
@@ -45,5 +50,45 @@ h1 {
 }
 
 .dream-img {
-    width: 70%;
+    width: 60%;
+}
+
+.exp {
+    display: flex;
+    background-image: url(imgs/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.box {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+}
+
+.border-left-red {
+    border-left: 5px solid red;
+    margin-left: 40px;
+}
+
+.border-left-red {
+    border-left: 5px solid red;
+    margin-left: 40px;
+}
+
+.border-left-green {
+    border-left: 5px solid #2600ff;
+    margin-left: 40px;
+}
+
+footer p {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.exp h1 {
+    font-size: 40px;
+}
+
+.exp h3 {
+    color: orange;
 }
